@@ -4,21 +4,21 @@
 
 - 🔭 I’m currently working on **SEO, web development**
 
-- 🌱 I’m currently learning **Technical SEO, JavaScript**
+- 🌱 I’m currently learning **Technical SEO, JavaScript, Azure**
 
 - 👯 I’m looking to collaborate on **SEO expert**
 
 - 🤝 I’m looking for help with **Backend developer**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/alperenshajid/home](https://sites.google.com/view/alperenshajid/home)
+- 👨‍💻 All of my projects are available at [my portfolio](https://sites.google.com/view/alperenshajid/home)
 
-- 📝 I regularly write articles on [blogger.com](blogger.com)
+- 📝 I regularly write articles on [blogger dot com](blogger.com)
 
 - 💬 Ask me about **react and gasp**
 
 - 📫 How to reach me **alperenshajid@gmail.com**
 
-- 📄 Know about my experiences [https://web.shajid-ahmed.live/](https://web.shajid-ahmed.live/)
+- 📄 Know about my experiences [click here](https://web.shajid-ahmed.live/)
 
 - ⚡ Fun fact **I think I'm lazy as hell.**
 
