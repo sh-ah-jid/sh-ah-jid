@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react and gasp**
 
-- 📫 How to reach me **alperenshajid@gmail.com**
+- 📫 How to reach me **me@shajid-ahmed.com**
 
 - 📄 Know about my experiences [click here](https://web.shajid-ahmed.live/)
 
